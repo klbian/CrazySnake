@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="疯狂贪吃蛇:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/_jar2</output-path>
+    <root id="archive" name="疯狂贪吃蛇.jar">
+      <element id="module-output" name="疯狂贪吃蛇" />
+    </root>
+  </artifact>
+</component>
