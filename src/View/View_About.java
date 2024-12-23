@@ -22,7 +22,7 @@ public class View_About extends JDialog {
         this.setLayout(null);
         this.setDefaultCloseOperation(DISPOSE_ON_CLOSE);
 
-        jLabel2.setText("<html><br>游戏名称：Crazy Snake<br><br>版本：　　3.2.0<br><br>更新时间：2023年5月7日<br><br>作者姓名：边凯伦、李奕慧歆<br><br>联系方式：15153398750<br><br><html>");
+        jLabel2.setText("<html><br>游戏名称：Crazy Snake<br><br>版本：　　3.2.0<br><br>更新时间：2023年5月7日<br><br>作者姓名：边凯伦<br><br>联系方式：15153398750<br><br><html>");
         jLabel2.setFont(new Font("宋体",Font.BOLD,30));
         jLabel2.setForeground(Color.LIGHT_GRAY);
 
